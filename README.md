@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Spoorthi Raj M D 👋
+
+🎓 Final Year Computer Science Engineering Student  
+💻 **Tech Stack**: Python, Java, OOP, SQL, HTML, PHP, DBMS  
+🚀 **Projects**: Poultry Farm Management | Amazon Management System
+🔍 **Looking for**: Software Developer roles / Internships 2026
+📫 **Email**: spoorthirajmd@gmail.com
+
+---
+"Building projects and learning in public"
 
 <!--
 **spoorthirajmd-spec/spoorthirajmd-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
