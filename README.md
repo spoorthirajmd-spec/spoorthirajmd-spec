@@ -2,7 +2,7 @@
 
 🎓 Final Year Computer Science Engineering Student  
 💻 **Tech Stack**: Python, Java, OOP, SQL, HTML, PHP, DBMS  
-🚀 **Projects**: Poultry Farm Management | Amazon Management System
+🚀 **Projects**: Poultry Farm Management | Amazon Management System | FarmAssist-Pro
 🔍 **Looking for**: Software Developer roles / Internships 2026
 📫 **Email**: spoorthirajmd@gmail.com
 
